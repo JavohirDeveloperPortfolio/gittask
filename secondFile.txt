@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 some changes
 some changes too
+=======
+another word
+another word too
+>>>>>>> git_1
 
 
 
